@@ -16,22 +16,22 @@ const help = (pushname, prefix, botName, ownerName, reqXp, uangku) => {
 ┠≽ *Versão* : 0.0.5
 ╿
 ┷┯ *〈 MENU 〉*
-   ┠≽ *${prefix}stickermenu*🐊
-   ┠≽ *${prefix}procurarmenu*🐊
-   ┠≽ *${prefix}downloadmenu*🐊
-   ┠≽ *${prefix}mememenu*🐊
-   ┠≽ *${prefix}grupomenu*🐊
-   ┠≽ *${prefix}sommenu*🐊
-   ┠≽ *${prefix}musicamenu*🐊
-   ┠≽ *${prefix}stalkmenu*🐊
-   ┠≽ *${prefix}animemenu*🐊
-   ┠≽ *${prefix}+18menu*🐊
-   ┠≽ *${prefix}funmenu*🐊
-   ┠≽ *${prefix}infomenu*🐊
-   ┠≽ *${prefix}xpmenu*🐊
-   ┠≽ *${prefix}limitemenu*🐊
-   ┠≽ *${prefix}donomenu*🐊
-   ┠≽ *${prefix}outromenu*🐊
+   ┠≽ *${prefix}stickermenu🐊*
+   ┠≽ *${prefix}procurarmenu🐊*
+   ┠≽ *${prefix}downloadmenu🐊*
+   ┠≽ *${prefix}mememenu🐊*
+   ┠≽ *${prefix}grupomenu🐊*
+   ┠≽ *${prefix}sommenu🐊*
+   ┠≽ *${prefix}musicamenu🐊*
+   ┠≽ *${prefix}stalkmenu🐊*
+   ┠≽ *${prefix}animemenu🐊*
+   ┠≽ *${prefix}+18menu🐊*
+   ┠≽ *${prefix}funmenu🐊*
+   ┠≽ *${prefix}infomenu🐊*
+   ┠≽ *${prefix}xpmenu🐊*
+   ┠≽ *${prefix}limitemenu🐊*
+   ┠≽ *${prefix}donomenu🐊*
+   ┠≽ *${prefix}outromenu🐊*
    ╿ *${PIRES}*,
    ╰╼≽ *Developer © ${bot-pires}`
 }

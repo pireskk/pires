@@ -100,6 +100,5 @@ const group = (prefix, botName, ownerName) => {
    ┃ *Desc* : Mostrar uma lista de palavrões
    ╿ *${ownerName}*,
    ╰╼≽ *Developer © ${bot-pires}`
-falando em gp entra mo meu ae🐊:https://chat.whatsapp.com/CWDE10hFK31JwBN79IWJLB
 }
 exports.group = group
